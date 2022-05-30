@@ -11,5 +11,8 @@
 - 💬 Ask me about Linux 🐧 and web dev 😉
 - 📫 How to reach me: sukeshraghav@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not funny :/
+- ⚡ Fun fact: I am a professional procastinator.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh02)](https://github.com/anuraghazra/github-readme-stats)
 
