@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a professional procastinator.
 
-# Check out my [Portfolio](https:sukesh02.github.io) 😄
+# Check out my [Portfolio](https://sukesh02.github.io) 😄
 
 ### <b>Github Stats</b>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh02&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
