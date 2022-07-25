@@ -16,7 +16,7 @@
 # Check out my [Portfolio](https://sukesh02.github.io) 😄
 
 ### <b>Github Stats</b>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh02&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh02&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukesh02&theme=dark)](https://git.io/streak-stats)
 
