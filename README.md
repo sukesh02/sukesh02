@@ -1,23 +1,57 @@
-### # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"><a href="https://sukesh02.github.io/">Sukesh Raghav G</a></h1>
+
+**Hello!** This is Sukesh Raghav G, Studying **Bachelor of Computer Science and Engineering with Artificial Intelligence** in Sathyabama University (2020-2024)
+<h4 align="center">
+ Feel free to visit <a href="https://sukesh02.github.io/" target="_blank"> My Portfolio </a><br>
+</h4>
+
+<!--Profile views counter-->
+<p align=center><img src="https://komarev.com/ghpvc/?username=sukesh02&color=ff5656&style=flat-square"></img></p>
+
+<!--About Me-->
+### About me
+🔸 I’m currently **Design Team member** at **ACM Stud**<br>
+🔸 I’m currently preparing for **Web Dev work**<br>
+🔸 I’m looking to collaborate for an open-source project on **Mobile Apps and Websites**<br>
+🔸 I’m looking for help with **Backend Development**<br>
+🔸 Ask me about **Linux**<br>
+🔸 Pronouns: **He/Him**<br>
+
+<!--Contact details-->
+### Contact 
+<p>
+ <a target="_blank" href="https://www.linkedin.com/in/sukesh-raghav-a3b8391b0/">
+ <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+ <a target="_blank" href="mailto:sukeshraghav@gmail.com">
+ <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+</p>
+
+<!--Projects-->
+### A Shortlist of my projects
+🔸 [Portfolio - HTML,CSS,JS and Bootstrap](https://sukesh02.github.io/)<br>
+<br>
 
 
-<!--
-**sukesh02/sukesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- GitHub Stats-->
+<details>
+ 
+<summary>
+<b style="font-size=32px"> Github Stats 📈</b>
+<br>
 
-- 🔭 I’m currently working on Angular web development
-- 🌱 I’m currently learning Deep Learning and Clustering
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about Linux 🐧 and web dev 😉
-- 📫 How to reach me: sukeshraghav@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a professional procastinator.
+</summary>
 
-# Check out my [Portfolio](https://sukesh02.github.io) 😄
+<p  align="center">
 
-### <b>Github Stats</b>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh02&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=sukesh02&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukesh02&theme=dark)](https://git.io/streak-stats)
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=sukesh02" width="400px" align=center></img>
+<br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sukesh02.visitor-badge)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh02&layout=compact&theme=radical" width="400px" align=center></img>
+</p>
+
+</details>
