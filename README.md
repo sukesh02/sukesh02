@@ -10,8 +10,8 @@
 
 <!--About Me-->
 ### About me
-🔸 I’m currently **Design Team member** at **ACM Stud**<br>
-🔸 I’m currently preparing for **Web Dev work**<br>
+🔸 I’m currently **Design Team member** at **ACM Student Chapter**<br>
+🔸 I’m currently preparing for **Web Development work**<br>
 🔸 I’m looking to collaborate for an open-source project on **Mobile Apps and Websites**<br>
 🔸 I’m looking for help with **Backend Development**<br>
 🔸 Ask me about **Linux**<br>
