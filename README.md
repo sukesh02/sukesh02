@@ -34,24 +34,6 @@
 <br>
 
 
-<!-- GitHub Stats-->
-<details>
- 
-<summary>
-<b style="font-size=32px"> Github Stats 📈</b>
-<br>
 
-</summary>
-
-<p  align="center">
-
-<img src = "https://github-readme-stats.vercel.app/api?username=sukesh02&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
-<br>
-
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=sukesh02" width="400px" align=center></img>
-<br>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh02&layout=compact&theme=radical" width="400px" align=center></img>
 </p>
 
-</details>
