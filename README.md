@@ -12,9 +12,8 @@
 ### About me
 🔸 I’m currently **Design Team member** at **ACM Student Chapter**<br>
 🔸 I’m currently preparing for **Web Development work**<br>
-🔸 I’m looking to collaborate for an open-source project on **Mobile Apps and Websites**<br>
-🔸 I’m looking for help with **Backend Development**<br>
-🔸 Ask me about **Linux**<br>
+🔸 I’m looking to collaborate on **Open-source projects**<br>
+🔸 I’m looking for help with **Full Stack Development**<br>
 🔸 Pronouns: **He/Him**<br>
 
 <!--Contact details-->
