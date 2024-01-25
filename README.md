@@ -10,7 +10,6 @@
 
 <!--About Me-->
 ### About me
-🔸 I’m currently **Design Team member** at **ACM Student Chapter**<br>
 🔸 I’m currently preparing for **Web Development work**<br>
 🔸 I’m looking to collaborate on **Open-source projects**<br>
 🔸 I’m looking for help with **Full Stack Development**<br>
